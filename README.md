@@ -1,4 +1,4 @@
-# Muse Bridge for 9Router
+# Muse Bridge for 9Router + Hermes inside the Muse VM
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![9Router](https://img.shields.io/badge/9Router-provider-brightgreen.svg)](https://github.com/)
